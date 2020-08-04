@@ -1,0 +1,53 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Oswald');
+
+$backgroundColor: #EEEEEE;
+$foregroundColor: #000725;
+$subtleForegroundColor: #1b1d50;
+
+.menu {
+  background: $backgroundColor;
+}
+
+.rotatedSquare1 {
+  fill: #0d1375;
+  opacity: 0.4;
+}
+
+.rotatedSquare2 {
+  fill: #2b7fb9;
+  opacity: 0.4;
+}
+
+.rotatedSquare3 {
+  fill: #280e78;
+  opacity: 0.4;
+}
+
+.rotatedSquare4 {
+  fill: #001e43;
+  opacity: 0.4;
+}
+
+.title {
+  font-size: 104px;
+  fill: $foregroundColor;
+  font-family: 'Oswald', serif;
+}
+
+.subtitle {
+  font-size: 72px;
+  fill: $foregroundColor;
+  font-family: 'Oswald', serif;
+}
+
+.menuItem {
+  font-size: 48px;
+  fill: $foregroundColor;
+  font-family: 'Oswald', serif;
+}
+
+.description {
+  font-size: 36px;
+  fill: $foregroundColor;
+  font-family: 'Oswald', serif;
+}
